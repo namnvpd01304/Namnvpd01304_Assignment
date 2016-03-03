@@ -1,0 +1,8 @@
+C:\Users\Nam\Documents\Visual Studio 2010\Projects\Namnvpd01304_ASSignment\Namnvpd01304_ASSignment\bin\Namnvpd01304_ASSignment.dll
+C:\Users\Nam\Documents\Visual Studio 2010\Projects\Namnvpd01304_ASSignment\Namnvpd01304_ASSignment\bin\Namnvpd01304_ASSignment.pdb
+C:\Users\Nam\Documents\Visual Studio 2010\Projects\Namnvpd01304_ASSignment\Namnvpd01304_ASSignment\bin\Namnvpd01304_ASSignment.xml
+C:\Users\Nam\Documents\Visual Studio 2010\Projects\Namnvpd01304_ASSignment\Namnvpd01304_ASSignment\obj\Debug\Namnvpd01304_ASSignment.Resources.resources
+C:\Users\Nam\Documents\Visual Studio 2010\Projects\Namnvpd01304_ASSignment\Namnvpd01304_ASSignment\obj\Debug\Namnvpd01304_ASSignment.vbproj.GenerateResource.Cache
+C:\Users\Nam\Documents\Visual Studio 2010\Projects\Namnvpd01304_ASSignment\Namnvpd01304_ASSignment\obj\Debug\Namnvpd01304_ASSignment.dll
+C:\Users\Nam\Documents\Visual Studio 2010\Projects\Namnvpd01304_ASSignment\Namnvpd01304_ASSignment\obj\Debug\Namnvpd01304_ASSignment.xml
+C:\Users\Nam\Documents\Visual Studio 2010\Projects\Namnvpd01304_ASSignment\Namnvpd01304_ASSignment\obj\Debug\Namnvpd01304_ASSignment.pdb
